@@ -9,4 +9,4 @@ Esse projeto consiste na utilização de técnicas de Processamento de Imagens p
 ___
 # **Grain Size Analysis Project**
 ### IEEE Computer Society UFABC + IEEE Electronics Packaging Society UFABC
-*This project utilizes Digital Image Processing techniques to perform grain size analysis in metal micrography images. This task is currently done manually by Engineering Students in the Federal University of ABC (UFABC), especially Material Engineering students. The final objective is creating a website that performs this task precisely and automatically.*
+*This project utilizes Digital Image Processing techniques to perform grain size analysis in metal micrograph images. This task is currently done manually by Engineering Students in the Federal University of ABC (UFABC), especially Material Engineering students. The final objective is creating a website that performs this task precisely and automatically.*
