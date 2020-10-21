@@ -1,5 +1,8 @@
 # .gitignore
 
+# ignore folders
+/.vscode
+
 # ignore shortcuts
 *.ini
 *.lnk
